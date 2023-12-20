@@ -1,3 +1,5 @@
+# C# Card Game
+
 A simple card game using Visual Studio 20222 and C# programming language.
 
 Here are the list of tasks that the program does:
@@ -7,3 +9,5 @@ Here are the list of tasks that the program does:
   4. Finds the winner
   5. Prints all the players' cards and which player won the game
   6. Prompts the user for a rematch
+
+![alt text](https://github.com/eman95/CSharp-CardGame/blob/master/Card%20Game.png)
