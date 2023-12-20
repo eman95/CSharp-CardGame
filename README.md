@@ -10,4 +10,4 @@ Here are the list of tasks that the program does:
   5. Prints all the players' cards and which player won the game
   6. Prompts the user for a rematch
 
-![alt text](https://github.com/eman95/CSharp-CardGame/blob/master/Card%20Game.png)
+![alt text](https://github.com/eman95/CSharp-CardGame/blob/master/Card%20Game%20Question.png)
